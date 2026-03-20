@@ -12,7 +12,7 @@
 - 🔭 Currently building **[FeeSync](https://feesync-pro.vercel.app)** — a college fee management system
 - 🌱 Learning **React, Supabase, AI/ML & Data Science**
 - 💡 Interested in **Web Dev, App Dev, AI/ML, Data Science & Competitive Programming**
-- 📫 Reach me at **manavcse12511062@iiitsonepat.ac.in**
+- 📫 Reach me at **manavmk5234@gmail.com**
 
 ---
 
