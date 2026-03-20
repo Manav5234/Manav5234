@@ -34,7 +34,11 @@
 | 🎓 **FeeSync** | College fee management system built for IIIT Sonepat. Students submit fee receipts, admins verify them, notifications sent automatically. | [feesync-pro.vercel.app](https://feesync-pro.vercel.app) |
 
 ---
+### 🧩 LeetCode Stats
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Manav5234?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
