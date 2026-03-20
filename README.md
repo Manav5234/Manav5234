@@ -37,7 +37,7 @@
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Manav5234?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Manav_Kumar?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
 </p>
 ### 📊 GitHub Stats
 
