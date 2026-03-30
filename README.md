@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Manav</h1>
-<h3 align="center">1st Year CSE Student @ IIIT Sonepat | Building things that matter</h3>
+<h3 align="center">1st Year CSE Student @ IIIT Sonepat</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manav5234&label=Profile%20views&color=0e75b6&style=flat" alt="Manav5234" />
+  <img src="https://komarev.com/ghpvc/?username=Manav5234&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing **B.Tech in CSE** at IIIT Sonepat
-- 🔭 Currently building **[FeeSync](https://feesync-pro.vercel.app)** — a college fee management system
-- 🌱 Learning **React, Supabase, AI/ML & Data Science**
-- 💡 Interested in **Web Dev, App Dev, AI/ML, Data Science & Competitive Programming**
-- 📫 Reach me at **manavmk5234@gmail.com**
+- 🎓 B.Tech CSE, IIIT Sonepat  
+- 🔭 Building **FeeSync** (college fee management system)  
+- 🌱 Learning **React, Supabase, AI/ML, Data Science**  
+- 💡 Interests: Web Dev, AI/ML, Competitive Programming  
+- 📫 **manavmk5234@gmail.com**
 
 ---
 
@@ -31,26 +31,37 @@
 
 | Project | Description | Live |
 |--------|-------------|------|
-| 🎓 **FeeSync** | College fee management system built for IIIT Sonepat. Students submit fee receipts, admins verify them, notifications sent automatically. | [feesync-pro.vercel.app](https://feesync-pro.vercel.app) |
+| 🎓 **FeeSync** | College fee system with receipt upload, admin verification, and notifications | [Live Demo](https://feesync-pro.vercel.app) |
 
 ---
+
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Manav_5234?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Manav_5234?theme=dark&font=Nunito&ext=contest" />
 </p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manav5234&show_icons=true&theme=tokyonight" alt="Manav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manav5234&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav5234&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav5234&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav5234)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manav5234)
+<p align="center">
+  <a href="https://linkedin.com/in/manav5234">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Manav5234">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
