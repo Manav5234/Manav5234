@@ -143,9 +143,12 @@ const manav = {
 ---
 
 <div align="center">
-  <i>🌌 Code today. Ship tomorrow. Learn always. 🌌</i>
-</div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:0a4a8a,100:001f4d&height=100&section=footer" />
+```
+> manav@iiit-sonepat:~$ git commit -m "another day, another line of code"
+> [main] pushing limits...
+> ✓ bugs fixed: many | features shipped: yes | sleep: optional
+> "The best error message is the one that never shows up." — Thomas Fuchs
+```
+
 </div>
